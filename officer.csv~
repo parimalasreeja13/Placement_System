@@ -1,0 +1,29 @@
+Id,Company name,Password,Applicants
+1,Infosys,123,"50,15,55,565"
+2,Larsen&Toubro,345,502
+3,Wipro,567,503
+4,Huawei,897,504
+5,Flipkart,638,505
+6,Tech Mahindra,273,506
+7,Cognizant,423,507
+8,Mindtree,543,508
+9,TCS,698,509
+10,IBM,732,510
+11,Accenture,298,511
+12,Microsoft,321,512
+13,Apple Inc,654,513
+14,Google,987,514
+15,Amazon,908,515
+16,The Coca Cola Co.,476,516
+17,Pepsi Co.,592,517
+18,Mahindra Group,376,518
+19,Procter&Gamble,421,519
+20,Sony Corporation,765,520
+21,Samsung,865,521
+22,TATA Group,914,522
+23,Nestle,581,523
+24,Aditya Birla Group,403,524
+25,Hewlett Packard Enterprise,285,525
+26,Deloitte,783,526
+27,Dell,807,527
+,Unilever,,
